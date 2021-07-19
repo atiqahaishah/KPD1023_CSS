@@ -86,14 +86,14 @@ CUBAAN CSS
 
 <div class="kandungan">
 <!--Content-->
-<div class="p1">
+.p1"{
 <p><h3>Section 1</h3></p>
 <p>Muhammad</p>
 <p>Pensyarah</p>
 <p>Kolej Vokasional Perdagangan</p>
 </div>
 
-<div class="p2">
+.p2"{
 <p><h3>Section 2</h3></p>
 <p>Muhammad</p>
 <p>Pensyarah</p>
@@ -102,7 +102,7 @@ CUBAAN CSS
 
 </div>
 
-<div class="p3">
+.p3"{
 <p><h3>Section 3</h3></p>
 <p>Belajar asas pengaturcaraan</p>
 <p>Belajar asas HTML</p>
